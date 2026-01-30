@@ -2,7 +2,7 @@ name: s_animated_tabs
 description: A Flutter package for s_animated_tabs functionality
 issue_tracker: https://github.com/SoundSliced/s_animated_tabs/issues
 repository: https://github.com/SoundSliced/s_animated_tabs
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/SoundSliced/s_animated_tabs
 
 environment:

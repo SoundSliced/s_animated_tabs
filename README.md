@@ -11,6 +11,8 @@ A professional, highly customizable animated tab switcher widget for Flutter tha
 - Fully configurable colors or preset color schemes
 - Enhanced animations with scale and bounce effects
 
+![Example app preview](https://raw.githubusercontent.com/SoundSliced/s_animated_tabs/main/example/assets/example.gif)
+
 ## Installation
 
 Add the dependency in your `pubspec.yaml`:
