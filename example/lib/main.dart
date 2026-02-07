@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:s_animated_tabs/s_animated_tabs.dart';
 
 void main() {

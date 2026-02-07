@@ -19,7 +19,7 @@ Add the dependency in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  s_animated_tabs: ^1.0.1
+  s_animated_tabs: ^2.0.0
 ```
 
 Then run:
