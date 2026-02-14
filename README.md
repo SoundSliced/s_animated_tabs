@@ -19,7 +19,7 @@ Add the dependency in your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  s_animated_tabs: ^2.0.0
+  s_animated_tabs: ^2.1.0
 ```
 
 Then run:
@@ -70,6 +70,8 @@ SAnimatedTabs(
 - `TabTextSize` presets: `small`, `medium`, `large`.
 - `TabColorScheme` presets: `primary`, `secondary`, `surface`, `outline`, `tertiary`.
 - `TabAnimationStyle` presets: `smooth`, `bouncy`, `snappy`, `elastic`.
+- `tabIcons`: Optional list of `IconData` for per-tab icons.
+- `tabBadges`: Optional list of `String` for per-tab badge pills.
 
 ## Example
 
