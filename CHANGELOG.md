@@ -3,6 +3,10 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+ 
+
+## 2.1.1
+- `s_packages` package dependency upgraded
 
 ## 2.1.0
 - `s_packages` dependency upgraded to ^1.3.0

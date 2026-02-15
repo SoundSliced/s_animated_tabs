@@ -2,7 +2,7 @@ name: s_animated_tabs
 description: A professional and highly customizable animated tab switcher widget for Flutter that provides smooth, polished animations.
 issue_tracker: https://github.com/SoundSliced/s_animated_tabs/issues
 repository: https://github.com/SoundSliced/s_animated_tabs
-version: 2.1.0
+version: 2.1.1
 homepage: https://github.com/SoundSliced/s_animated_tabs
 
 environment:
@@ -12,7 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  s_packages: ^1.3.0
+  s_packages: ^1.4.1
 
 dev_dependencies:
   flutter_test:
